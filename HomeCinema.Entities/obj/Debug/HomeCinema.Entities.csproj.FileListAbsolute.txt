@@ -1,0 +1,4 @@
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb

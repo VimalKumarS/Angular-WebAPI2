@@ -1,0 +1,15 @@
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.dll
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.xml
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\bin\Debug\MockData.dll
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.Migrations.initial_migration.resources
+C:\VimalKumar\Practice\HomeCinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.GenerateResource.Cache
